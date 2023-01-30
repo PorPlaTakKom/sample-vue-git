@@ -1,5 +1,9 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
+
+const onClick= () =>{
+  consloe.log('123')
+}
 </script>
 
 <template>
